@@ -25,7 +25,7 @@ ________________________________________________________________________________
 * Patrick Inocencio
 * Hawea Elmi
 * Jenny Tan
-*Vikrant Sharma
+* Vikrant Sharma
 * Ivan Smilkov
 *
 *
