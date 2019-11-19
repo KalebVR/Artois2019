@@ -1,18 +1,20 @@
 
 
+
     ___         __        _         ___   ____ _______ 
    /   |  _____/ /_____  (_)____   |__ \ / __ <  / __ \
   / /| | / ___/ __/ __ \/ / ___/   __/ // / / / / /_/ /
  / ___ |/ /  / /_/ /_/ / (__  )   / __// /_/ / /\__, / 
 /_/  |_/_/   \__/\____/_/____/   /____/\____/_//____/  
+                                                       
    
    
                                                        
 ## This is a git repository for Chicago EDT's Artois 2019-20
 _______________________________________________________________________________________________________________________________
 ## This repository includes:
-* The controller's code, design and components
-* The receiver and how it interacts with the controller, motor drivers/controllers, and other mechanisms
+* CAD files, EAGLE files, Media
+* Arduino code for input/output from Spektum Radios
 * Mechanisms' codes, design and components
 _______________________________________________________________________________________________________________________________
 ## Contributors:
