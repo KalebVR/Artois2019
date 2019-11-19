@@ -17,7 +17,7 @@ ________________________________________________________________________________
 * Mechanisms' codes, design and components
 _______________________________________________________________________________________________________________________________
 ## Contributors:
-* Kaleb Vicary-Rzab
+* Kaleb Vicary-Rzabble Babble
 * Steven Mac
 * Francis Paul Amadeo
 * Matt Meyers
