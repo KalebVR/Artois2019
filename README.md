@@ -17,12 +17,12 @@ ________________________________________________________________________________
 * Mechanisms' codes, design and components
 _______________________________________________________________________________________________________________________________
 ## Contributors:
-* Kaleb Vicary-Rzabble Babble
+* Kaleb Vicary-Rzab
 * Steven Mac
-* Francis Paul Amadeo
+* Francis Paul Amadeo (Graduated)
 * Matt Meyers
 * Steven Ruiz
-* Patrick Inocencio
+* Patrick Inocencio (Graduated)
 * Hawea Elmi
 * Jenny Tan
 * Vikrant Sharma
